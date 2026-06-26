@@ -50,10 +50,3 @@ This displays a YouTube video directly on the page.
     </iframe>
   </body>
 </html>
-
-### **Live Demo 👇**
-![Video Display Screenshot](./assets/day-15-screenshot.png)
-
-### **Live Preview**
-[👉 View the code](index.html)
-Then download it and open in Spck Editor or any browser
