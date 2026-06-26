@@ -1,7 +1,9 @@
 # Day 16: Build a Video Display Using iframe 🖼️
 
+**Workshop: 8/8 Steps Completed ✅**
+
 ### **The Goal Today**
-Go from just knowing what an `iframe` is to actually building a working YouTube video player from scratch.
+Go from just knowing what an `iframe` is → to actually building a working YouTube video player from scratch.
 
 This was freeCodeCamp’s “Build a Video Display Using iframe” Workshop.
 
@@ -25,3 +27,24 @@ It lets you load and display another webpage, video, or map without leaving your
 
 ### **The Final Code I Built**
 This displays a YouTube video directly on the page:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Display Videos in an iframe</title>
+  </head>
+  <body>
+    <h1>iframe Video Display</h1>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/I0_951_MPE0"
+      allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+    </iframe>
+  </body>
+</html>
