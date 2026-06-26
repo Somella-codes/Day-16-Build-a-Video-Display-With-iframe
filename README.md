@@ -1,6 +1,8 @@
 # Day 16: Build a Video Display Using iframe 🖼️
 
-**Workshop: 8/8 Steps Completed ✅**
+**Workshop: 8/8 Steps Completed ✅** 
+
+---
 
 ### **The Goal Today**
 Go from just knowing what an `iframe` is → to actually building a working YouTube video player from scratch.
@@ -26,7 +28,9 @@ It lets you load and display another webpage, video, or map without leaving your
 | **allowfullscreen** | Lets the user click the fullscreen button on the video. |
 
 ### **The Final Code I Built**
-This displays a YouTube video directly on the page:
+This displays a YouTube video directly on the page. 
+
+**How to run this:** Open `index.html` in Spck Editor or any browser to see it run:
 
 ```html
 <!DOCTYPE html>
