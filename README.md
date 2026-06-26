@@ -54,6 +54,6 @@ This displays a YouTube video directly on the page.
 ### **Live Demo 👇**
 ![Video Display Screenshot](./assets/day-15-screenshot.png)
 
-**How to run this:** 
-[👉 View the index.html file](./index.html) 
+### **Live Preview**
+[👉 View the code](index.html)
 Then download it and open in Spck Editor or any browser
