@@ -30,8 +30,6 @@ It lets you load and display another webpage, video, or map without leaving your
 ### **The Final Code I Built**
 This displays a YouTube video directly on the page. 
 
-**How to run this:** Open `index.html` in Spck Editor or any browser to see it run:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -52,3 +50,10 @@ This displays a YouTube video directly on the page.
     </iframe>
   </body>
 </html>
+
+### **Live Demo 👇**
+![Video Display Screenshot](./assets/day-15-screenshot.png)
+
+**How to run this:** 
+[👉 View the index.html file](./index.html) 
+Then download it and open in Spck Editor or any browser
